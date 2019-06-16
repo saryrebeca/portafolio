@@ -219,3 +219,23 @@ footer p{
 	font-size: 15px;
 	color: #FEDB45;
 }
+
+
+
+/* Celular */
+@media (max-width:480px){
+	
+	.title{
+		text-align: center;
+		font-size: 25px;
+	
+	}
+	
+	#servicios p{
+	text-align:justify;
+}
+}
+
+
+
+
