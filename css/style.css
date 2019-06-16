@@ -234,6 +234,9 @@ footer p{
 	#servicios p{
 	text-align:justify;
 }
+	.parrafo p{
+		display: none;
+	}
 }
 
 
